@@ -4,7 +4,7 @@
 
 ## Deskripsi
 
-Program ini dirancang untuk melakukan analisis sentimen pada komentar YouTube yang dikumpulkan melalui proses scraping. Program ini memanfaatkan algoritma K-Nearest Neighbors (KNN) untuk mengklasifikasikan sentimen dan TextBlob untuk melakukan pelabelan sentimen awal. **Berdasarkan pengujian, model KNN yang digunakan mencapai akurasi sebesar 81.82%.**
+Program ini dirancang untuk melakukan analisis sentimen pada komentar YouTube yang dikumpulkan melalui proses scraping. Program ini memanfaatkan algoritma K-Nearest Neighbors (KNN) untuk mengklasifikasikan sentimen dan TextBlob untuk melakukan pelabelan sentimen awal. **Berdasarkan pengujian, model KNN yang digunakan mencapai akurasi sebesar 98.80%.**
 
 ## Cara Kerja
 
